@@ -21,9 +21,13 @@ const home = () => {
         <Center>
         
         <UnorderedList>
-          <ListItem fontSize='sm' margin = 'auto 0%' textAlign = 'left' fontFamily = 'Nunito'>Danville Police dept:</ListItem>
+          <ListItem fontSize='sm' margin = 'auto 0%' textAlign = 'left' fontFamily = 'Nunito'>Danville Police dept.</ListItem>
           <Text fontSize='xs' margin = 'auto 0%' textAlign = 'left' fontFamily = 'Comfortaa'>(NON emergency direct line after hours)</Text>
           <Text fontSize='xs' margin = 'auto 0%' textAlign = 'left' fontFamily = 'Comfortaa'>925-820-2144</Text>
+
+
+          <ListItem fontSize='sm' margin = 'auto 0%' textAlign = 'left' fontFamily = 'Nunito'>Contra Costa County Dispatch</ListItem>
+          <Text fontSize='xs' margin = 'auto 0%' textAlign = 'left' fontFamily = 'Comfortaa'>925-646-2441</Text>
         </UnorderedList>
 
         </Center>

@@ -1,7 +1,7 @@
 import React from 'react';
 import NavBar from '../header';
 import {Heading, Center} from '@chakra-ui/react';
-import nightMap from './FinalSRVGradNight.png';
+import nightMap from './GradNightMap.png';
 import evacMap from './evacMap.jpg';
 import './nightMap.css';
 
